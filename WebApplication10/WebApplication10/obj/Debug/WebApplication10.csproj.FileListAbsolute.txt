@@ -1,0 +1,4 @@
+E:\Dot net\Practise\WebApplication10\WebApplication10\bin\WebApplication10.dll
+E:\Dot net\Practise\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+E:\Dot net\Practise\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+E:\Dot net\Practise\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
